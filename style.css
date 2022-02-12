@@ -1,0 +1,252 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 1350px;
+    margin:auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/*---------------header-------------------*/
+header{
+    padding-bottom: 20px;
+    width: 1350px;
+    height:90px;
+    /* color 1a6b50*/
+    background-color: #1a6b50;
+}
+.header_buttons a{
+    margin-bottom:50px;
+    margin-left:40px;
+    padding-bottom: 50px;
+    font-size:18px;
+    color:white;
+    border-top: 10px solid #1a6b50;
+}
+.head_btn{
+    padding-left: 20px;;
+    text-decoration: none;
+}
+.logo{
+    width:180px;
+    padding-left: 150px;
+    display:inline;
+}
+
+/*---------------section1------------------*/
+.text_part{
+    width: 400px;
+    margin:auto;
+}
+.image_part{
+    width:300px;
+    margin:auto;
+    margin-right: 250px;
+    margin-top: 80px;
+}
+.image_part img{
+    width:100%;
+}
+h1{
+    font-size: xx-large;
+    font-weight: 400;
+}
+.p1{
+    font-size:large;
+}
+.p2{
+    font-size:medium;
+    color:rgb(83, 72, 72)
+}
+.text_part a{
+    display:block;
+    margin:20px;
+    text-decoration: none;
+    color: #1a6b50;
+}
+.heading{
+    margin-left: -60px;
+    margin-bottom: -20px;
+}
+.order{
+    margin-left: 70px;
+}
+/*---------------section 2-------------*/
+
+.section2{
+    width:1350px;
+    margin-top: 100px;
+}
+
+.text_details{
+    width: 320px;
+    margin-left: 100px;
+    padding-left:0px;
+   /* background-color: rgb(216, 213, 213);
+    padding:0px 30px 138px 20px;*/
+}
+.t1{
+    padding-left: 50px;
+}
+small{
+    font-size: small;
+}
+.text_details .link{
+    text-decoration: none;
+    color:dodgerblue;
+}
+
+.text_details img{
+    width:85%;
+    margin:auto;
+    margin-right: 250px;
+    margin-top: 80px;
+    padding-left: 0px;;
+
+}
+.section2_right{
+    width:50%;
+    margin:auto;
+    margin-right: 250px;
+    margin-top: 80px;
+}
+.section2_right img{
+    width:50%;
+    padding-left: 270px;
+}
+.img2{
+    width:50%;
+    
+}
+
+.section2{
+    width:1350px;
+    background-color: rgb(212, 241, 237);
+    border: 2px solid rgb(130, 138, 135) ;
+    padding-right: 0px;
+}
+
+h3{
+    color:rgb(85, 74, 74);
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+.section2_right p{
+    font-size: large;
+    text-align: center;
+}
+.textBelow_circle{
+    text-align: center;
+    padding-left: 200px;
+}
+
+/*-------------section3--------------*/
+.explore{
+    text-decoration: none;
+    margin:auto;
+    border:2px solid #03c282;
+    color:#03c282;
+    padding:10px;
+    margin-top: 100px;
+    border-radius: 15px;
+}
+
+
+/*--------------section4---------------*/
+.section4{
+    width: 1350px;
+    background-color: rgb(23, 18, 44);
+    margin-top: 100px;
+    height:max-content
+}
+/*----------anchor heads----------*/
+
+.whatsapp_head{
+    color: white;
+    width: 20%;
+    display:block;
+    padding-left: 50px;
+    padding-bottom: 40px;
+    text-decoration: none;
+}
+.company_head{
+    color:white;
+    display:block;
+    padding-bottom: 40px;
+    text-decoration: none;
+}
+.download_head{
+    color: white;
+    display:block;
+    padding-bottom: 40px;
+    text-decoration: none;
+}
+.help_head{
+    color:white;
+    display:block;
+    padding-bottom: 40px;
+    text-decoration: none;
+}
+
+
+/*--------------Anchor body-------------*/
+
+
+.whatsapp{
+    color:white;
+    width:350px;
+    display:block;
+    padding-left: 50px;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+.company{
+    color:white;
+    width:350px;
+    display:block;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+.download{
+    color:white;
+    width:350px;
+    display:block;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+
+.help{
+    color:white;
+    width:350%;
+    display:block;
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+/*-------------Footer---------------*/
+
+.foot{
+    background-color: black;
+    height:80px;
+    width:1350px;
+}
+
+.anchor_foot{
+    color:white;
+    padding-left: 1000px;
+}
+.foot p{
+    color: white;
+    display:inline;
+    padding-left: 20px;
+}
